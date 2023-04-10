@@ -1,8 +1,0 @@
-#ignore single file
-another-file.txt
-
-#ignore all files in the bin directory
-bin/
-
-#ignore all .tmp files
-*.tmp
